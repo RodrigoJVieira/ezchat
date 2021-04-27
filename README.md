@@ -2,8 +2,8 @@
      <img 
     src="https://i.ibb.co/SrhSFRY/ezchat.png"
     float="center"
-    width="100" height="100"
+    width="150" height="100"
     />
     <br/>
-  <a href="#"> Chatty </a>
+  <a href="#"> EzChat </a>
 </h1>
