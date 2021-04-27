@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#0091EA; font-weight:bold;">
      <img 
-    src="https://ibb.co/X8hHcS0"
+    src="https://i.ibb.co/SrhSFRY/ezchat.png"
     float="center"
     width="100" height="100"
     />
